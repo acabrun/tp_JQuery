@@ -13,6 +13,12 @@ p {
 	margin-right: 80px;
 	border-radius: 20px;
 	border: 3px solid black;
+	cursor: pointer;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	font-weight: 800;
 	
 }
 
@@ -20,4 +26,5 @@ button {
 	border-radius: 30px;
 	background-color: black;
 	color: white;
+	cursor: pointer;
 }
